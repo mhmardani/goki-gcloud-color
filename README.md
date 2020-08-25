@@ -1,6 +1,6 @@
 # goki-gcloud-color
 
-goki gcloud color is a extention wich specially developed for goki project.
+goki gcloud color is a extention wich specially developed for goki projects.
 
 ## installation
 * download or clone this repo
