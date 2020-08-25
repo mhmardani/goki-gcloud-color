@@ -1,0 +1,17 @@
+{
+  "name": "Goki Google Cloud Color",
+  "version": "1.0",
+  "description": "Change you background color base on your environment on goki projects",
+  "manifest_version": 2,
+  "permissions": [],
+  "content_scripts": [{
+    "matches": ["*://*/*"],
+    "js": ["content.js"]
+  }],
+  "icons": {
+    "16": "images/fire.png",
+    "32": "images/fire.png",
+    "48": "images/fire.png",
+    "128": "images/fire.png"
+  }
+}
